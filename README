@@ -1,0 +1,7 @@
+Testing Android Apps the Right Way, Parts I and II
+
+AnDevCon Boston May 2014
+
+With the huge number of Android devices all having different screen sizes, different CPUs, different amounts of memory and running different flavors of the Android OS, how can you test your application and be sure that it works for everyone on all devices? In this two-part, 150-minute class, we'll go though all the different ways you can test Android applications to make sure it works on the widest range of devices possible. You will see the benefits and pitfalls of each testing method and in what situations you should use each method to make effective use of your time and your project's budget. Topics covered include emulation, on-device testing, unit testing and testing with mock objects.
+
+In the second part of the class, we'll go deeper into how to use Android's JUnit extensions to test Android activities and services. We will cover how to setup a continuous integration environment to automatically run your tests and report when things go wrong (including some Arduino integration). Finally, you will see how cloud testing services are invaluable in testing your app. All of these techniques will be illustrated with code and live demos with a real application so you can see how to set up your own Android testing environment and easily find issues in your own app.
